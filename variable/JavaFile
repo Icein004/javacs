@@ -1,1 +1,6 @@
-e
+public class JavaFile{
+    public static void main(string args[]){
+        int num = 10;
+        system.out.println(num);
+    }
+}
